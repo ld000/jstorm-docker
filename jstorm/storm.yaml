@@ -1,0 +1,7 @@
+storm.zookeeper.servers: [zookeeper]
+nimbus.seeds: [nimbus]
+# storm.zookeeper.root: /jstorm
+# storm.local.dir: /tmp/jstorm
+# java.library.path: /usr/local/lib:/opt/local/lib:/usr/lib
+# supervisor.slots.ports:
+# topology.enable.classloader: false
